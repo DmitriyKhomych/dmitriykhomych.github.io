@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/app.css">
+    <!--<script src="https://d3js.org/d3.v4.min.js"></script>-->
+    <script src="libs/papaparse.min.js"></script>
+    <script src="libs/d3.v3.min.js"></script>
+    <script src="libs/jquery-3.2.1.min.js"></script>
+    <script src="js/csvToJsonService.js"></script>
+    <script src="js/app.js"></script>
+</head>
+<body>
+<!--File input is used for CSV->JSON conversion, which have to be made via API in the feature-->
+<!--Uncomment this to use converter-->
+<!--<input type="file" id="csv-file"/>-->
+<script>
+        $(document).ready(function(){
+//            Uncomment this to use converter
+//            $("#csv-file").change(buildJsonFromCSV);
+            runApp();
+        });
+</script>
+</body>
+</html>

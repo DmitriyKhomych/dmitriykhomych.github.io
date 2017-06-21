@@ -1,0 +1,590 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "country": "Lithuania"
+    },
+    {
+      "id": 1,
+      "country": "Turkey"
+    },
+    {
+      "id": 2,
+      "country": "Denmark"
+    },
+    {
+      "id": 3,
+      "country": "Albania"
+    },
+    {
+      "id": 4,
+      "country": "Sweden"
+    },
+    {
+      "id": 5,
+      "country": "Slovenia"
+    },
+    {
+      "id": 6,
+      "country": "Netherlands"
+    },
+    {
+      "id": 7,
+      "country": "Switzerland"
+    },
+    {
+      "id": 8,
+      "country": "SanMarino"
+    },
+    {
+      "id": 9,
+      "country": "Estonia"
+    },
+    {
+      "id": 10,
+      "country": "Slovakia"
+    },
+    {
+      "id": 11,
+      "country": "Finland"
+    },
+    {
+      "id": 12,
+      "country": "Romania"
+    },
+    {
+      "id": 13,
+      "country": "Ireland"
+    },
+    {
+      "id": 14,
+      "country": "Portugal"
+    },
+    {
+      "id": 15,
+      "country": "Belarus"
+    },
+    {
+      "id": 16,
+      "country": "Cyprus"
+    },
+    {
+      "id": 17,
+      "country": "Moldova"
+    },
+    {
+      "id": 18,
+      "country": "Serbia"
+    },
+    {
+      "id": 19,
+      "country": "Montenegro"
+    },
+    {
+      "id": 20,
+      "country": "Bulgaria"
+    },
+    {
+      "id": 21,
+      "country": "Azerbaijan"
+    },
+    {
+      "id": 22,
+      "country": "Norway"
+    },
+    {
+      "id": 23,
+      "country": "UnitedKingdom"
+    },
+    {
+      "id": 24,
+      "country": "Macedonia"
+    },
+    {
+      "id": 25,
+      "country": "Iceland"
+    },
+    {
+      "id": 26,
+      "country": "Israel"
+    },
+    {
+      "id": 27,
+      "country": "Belgium"
+    },
+    {
+      "id": 28,
+      "country": "Germany"
+    },
+    {
+      "id": 29,
+      "country": "Croatia"
+    },
+    {
+      "id": 30,
+      "country": "Hungary"
+    },
+    {
+      "id": 31,
+      "country": "Georgia"
+    },
+    {
+      "id": 32,
+      "country": "Italy"
+    },
+    {
+      "id": 33,
+      "country": "Spain"
+    },
+    {
+      "id": 34,
+      "country": "Latvia"
+    },
+    {
+      "id": 35,
+      "country": "Greece"
+    },
+    {
+      "id": 36,
+      "country": "Russia"
+    },
+    {
+      "id": 37,
+      "country": "France"
+    },
+    {
+      "id": 38,
+      "country": "Austria"
+    },
+    {
+      "id": 39,
+      "country": "Malta"
+    },
+    {
+      "id": 40,
+      "country": "Ukraine"
+    },
+    {
+      "id": 41,
+      "country": "BosniaHerzegovina"
+    },
+    {
+      "id": 42,
+      "country": "Armenia"
+    },
+    {
+      "id": 43,
+      "country": "Poland"
+    },
+    {
+      "id": 44,
+      "country": "Australia"
+    },
+    {
+      "id": 45,
+      "country": "CzechRepublic"
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 4,
+      "score": 10
+    },
+    {
+      "source": 0,
+      "target": 34,
+      "score": 12
+    },
+    {
+      "source": 27,
+      "target": 36,
+      "score": 10
+    },
+    {
+      "source": 27,
+      "target": 4,
+      "score": 12
+    },
+    {
+      "source": 3,
+      "target": 32,
+      "score": 12
+    },
+    {
+      "source": 3,
+      "target": 35,
+      "score": 10
+    },
+    {
+      "source": 4,
+      "target": 44,
+      "score": 12
+    },
+    {
+      "source": 4,
+      "target": 27,
+      "score": 10
+    },
+    {
+      "source": 44,
+      "target": 4,
+      "score": 12
+    },
+    {
+      "source": 44,
+      "target": 36,
+      "score": 10
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "score": 12
+    },
+    {
+      "source": 5,
+      "target": 19,
+      "score": 10
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "score": 10
+    },
+    {
+      "source": 6,
+      "target": 27,
+      "score": 12
+    },
+    {
+      "source": 8,
+      "target": 32,
+      "score": 10
+    },
+    {
+      "source": 8,
+      "target": 34,
+      "score": 12
+    },
+    {
+      "source": 9,
+      "target": 4,
+      "score": 10
+    },
+    {
+      "source": 9,
+      "target": 36,
+      "score": 12
+    },
+    {
+      "source": 33,
+      "target": 32,
+      "score": 12
+    },
+    {
+      "source": 33,
+      "target": 36,
+      "score": 10
+    },
+    {
+      "source": 11,
+      "target": 4,
+      "score": 12
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "score": 10
+    },
+    {
+      "source": 12,
+      "target": 32,
+      "score": 12
+    },
+    {
+      "source": 12,
+      "target": 36,
+      "score": 10
+    },
+    {
+      "source": 13,
+      "target": 4,
+      "score": 10
+    },
+    {
+      "source": 13,
+      "target": 34,
+      "score": 12
+    },
+    {
+      "source": 14,
+      "target": 32,
+      "score": 12
+    },
+    {
+      "source": 14,
+      "target": 36,
+      "score": 10
+    },
+    {
+      "source": 15,
+      "target": 4,
+      "score": 10
+    },
+    {
+      "source": 15,
+      "target": 36,
+      "score": 12
+    },
+    {
+      "source": 16,
+      "target": 32,
+      "score": 12
+    },
+    {
+      "source": 16,
+      "target": 4,
+      "score": 10
+    },
+    {
+      "source": 17,
+      "target": 12,
+      "score": 12
+    },
+    {
+      "source": 17,
+      "target": 36,
+      "score": 10
+    },
+    {
+      "source": 18,
+      "target": 36,
+      "score": 10
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "score": 12
+    },
+    {
+      "source": 19,
+      "target": 18,
+      "score": 12
+    },
+    {
+      "source": 19,
+      "target": 3,
+      "score": 10
+    },
+    {
+      "source": 42,
+      "target": 31,
+      "score": 10
+    },
+    {
+      "source": 42,
+      "target": 36,
+      "score": 12
+    },
+    {
+      "source": 21,
+      "target": 31,
+      "score": 10
+    },
+    {
+      "source": 21,
+      "target": 36,
+      "score": 12
+    },
+    {
+      "source": 22,
+      "target": 4,
+      "score": 12
+    },
+    {
+      "source": 22,
+      "target": 44,
+      "score": 10
+    },
+    {
+      "source": 23,
+      "target": 4,
+      "score": 12
+    },
+    {
+      "source": 23,
+      "target": 44,
+      "score": 10
+    },
+    {
+      "source": 24,
+      "target": 18,
+      "score": 10
+    },
+    {
+      "source": 24,
+      "target": 3,
+      "score": 12
+    },
+    {
+      "source": 25,
+      "target": 4,
+      "score": 12
+    },
+    {
+      "source": 25,
+      "target": 22,
+      "score": 10
+    },
+    {
+      "source": 26,
+      "target": 32,
+      "score": 12
+    },
+    {
+      "source": 26,
+      "target": 4,
+      "score": 10
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "score": 12
+    },
+    {
+      "source": 2,
+      "target": 36,
+      "score": 10
+    },
+    {
+      "source": 28,
+      "target": 4,
+      "score": 10
+    },
+    {
+      "source": 28,
+      "target": 36,
+      "score": 12
+    },
+    {
+      "source": 30,
+      "target": 4,
+      "score": 10
+    },
+    {
+      "source": 30,
+      "target": 27,
+      "score": 12
+    },
+    {
+      "source": 31,
+      "target": 42,
+      "score": 12
+    },
+    {
+      "source": 31,
+      "target": 21,
+      "score": 10
+    },
+    {
+      "source": 32,
+      "target": 4,
+      "score": 12
+    },
+    {
+      "source": 32,
+      "target": 36,
+      "score": 10
+    },
+    {
+      "source": 43,
+      "target": 4,
+      "score": 12
+    },
+    {
+      "source": 43,
+      "target": 34,
+      "score": 10
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "score": 12
+    },
+    {
+      "source": 7,
+      "target": 22,
+      "score": 10
+    },
+    {
+      "source": 35,
+      "target": 32,
+      "score": 12
+    },
+    {
+      "source": 35,
+      "target": 16,
+      "score": 10
+    },
+    {
+      "source": 36,
+      "target": 32,
+      "score": 12
+    },
+    {
+      "source": 36,
+      "target": 27,
+      "score": 10
+    },
+    {
+      "source": 37,
+      "target": 36,
+      "score": 10
+    },
+    {
+      "source": 37,
+      "target": 27,
+      "score": 12
+    },
+    {
+      "source": 38,
+      "target": 32,
+      "score": 10
+    },
+    {
+      "source": 38,
+      "target": 44,
+      "score": 12
+    },
+    {
+      "source": 39,
+      "target": 32,
+      "score": 12
+    },
+    {
+      "source": 39,
+      "target": 4,
+      "score": 10
+    },
+    {
+      "source": 34,
+      "target": 4,
+      "score": 12
+    },
+    {
+      "source": 34,
+      "target": 36,
+      "score": 10
+    },
+    {
+      "source": 45,
+      "target": 4,
+      "score": 10
+    },
+    {
+      "source": 45,
+      "target": 21,
+      "score": 12
+    }
+  ]
+}
